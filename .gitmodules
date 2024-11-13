@@ -1,0 +1,12 @@
+[submodule "whatsapp-bot"]
+	path = whatsapp-bot
+	url = git@github.com:georgolden/whatsapp-bot.git
+[submodule "youtube-downloader"]
+	path = youtube-downloader
+	url = git@github.com:georgolden/youtube-downloader.git
+[submodule "summarizer"]
+	path = summarizer
+	url = git@github.com:georgolden/summarizer.git
+[submodule "flask-whisper-transcription"]
+	path = flask-whisper-transcription
+	url = git@github.com:georgolden/flask-whisper-transcription.git
