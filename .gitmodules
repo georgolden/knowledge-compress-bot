@@ -7,6 +7,3 @@
 [submodule "summarizer"]
 	path = summarizer
 	url = git@github.com:georgolden/summarizer.git
-[submodule "flask-whisper-transcription"]
-	path = flask-whisper-transcription
-	url = git@github.com:georgolden/flask-whisper-transcription.git
